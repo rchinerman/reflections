@@ -1,8 +1,10 @@
 export const colors = {
-  background: "#f03e2f",
-  text: "#000000",
-  primary: "#000000",
-  muted: "#f14e41",
-  active: "#e6e6e6",
+  background: "#e3f6f5",
+  secondaryBackground: "#fffffe",
+  text: "#2d334a",
+  headline: "#272343",
+  primary: "#ffd803",
+  muted: "#e3f6f5",
+  active: "#ffd803",
   black: "#000",
 }
